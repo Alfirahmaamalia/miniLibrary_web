@@ -14,7 +14,7 @@ Aplikasi Perpustakaan Mini adalah sistem manajemen perpustakaan sederhana yang m
 ### 🎯 Fitur Tambahan
 - **Status Buku**: Setiap buku menampilkan status *tersedia* atau *dipinjam*.
 - **Autentikasi**: Sistem login untuk admin agar dapat mengakses fitur manajemen.
-- **Dashboard**: Menampilkan ringkasan data buku, anggota, dan peminjaman (opsional).
+- **Dashboard**: Menampilkan ringkasan data buku, anggota, dan peminjaman.
 
 ## 👥 Aktor dalam Sistem
 
@@ -25,7 +25,6 @@ Aplikasi Perpustakaan Mini adalah sistem manajemen perpustakaan sederhana yang m
 
 2. **Pengguna (Anggota Perpustakaan)**
    - Hanya sebagai penerima layanan peminjaman
-   - Tidak memiliki akses langsung ke sistem (opsional tergantung implementasi)
 
 ## 🛠️ Teknologi yang Digunakan
 
